@@ -15,7 +15,6 @@ Developed an interactive D-Mart Sales Analysis Dashboard using Power BI connecte
 • SQL
 • Power BI
 • DAX
-• Data Cleaning & Transformation
 
 # Key Insights:
 • Identified top-performing products and profitable stores
